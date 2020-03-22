@@ -15,8 +15,8 @@ TagManager:
   - 
   - Ground
   - Dino
-  - 
-  - 
+  - Hittable
+  - PostProcessing
   - 
   - 
   - 
